@@ -26,7 +26,7 @@ Usage
 
 Clone the repository and navigate to the script directory:
 
-git clone https://github.com/yourrepo/htb-admin-exploit.git
+git clone https://github.com/jagsha/htb-administrator-automated-walkthrough.git
 cd htb-admin-exploit
 
 2. Edit Configuration
